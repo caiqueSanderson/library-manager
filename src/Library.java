@@ -1,4 +1,4 @@
-public class library {
+public class Library {
     void addBooks(){
 
     }
